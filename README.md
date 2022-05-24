@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Johannes1298
+- 👀 I’m interested in: learning to code
+- 🌱 I’m currently learning to: code
+- 💞️ I’m looking to collaborate on: code
+- 📫 How to reach me: write me lol
